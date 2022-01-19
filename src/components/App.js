@@ -49,5 +49,3 @@ const App = props => {
 };
 
 export default App;
-
-//////start here
